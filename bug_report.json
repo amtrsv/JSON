@@ -1,4 +1,4 @@
-{ "Bug report #1",
+{ "Bug report": "1",
  "Structure": "Error message in login form is displayed in English",
  "Project": "Login page",
  "Component": "Registration form",
